@@ -1,2 +1,2 @@
 # LICENSE
-## Bolaji test license file
+## Apache 3.0
